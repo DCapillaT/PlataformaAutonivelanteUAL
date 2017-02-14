@@ -19,5 +19,5 @@ Las siguientes imágenes son enlaces a videos donde se pueden ver los programas 
 
 [![Modo Manual](https://img.youtube.com/vi/SO_ZfmCs150/0.jpg)](https://www.youtube.com/watch?v=SO_ZfmCs150 "Modo Automático")
 
-<a href"https://www.youtube.com/watch?v=SO_ZfmCs150">Modo Automático</a>
+<a href="https://www.youtube.com/watch?v=SO_ZfmCs150">Modo Automático</a>
 
